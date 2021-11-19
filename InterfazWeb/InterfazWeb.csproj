@@ -74,6 +74,8 @@
     <Content Include="frmClientes.aspx" />
     <Content Include="frmListadoClientes.aspx" />
     <Content Include="frmListadoReservas.aspx" />
+    <Content Include="frmReserva.aspx" />
+    <Content Include="JS\Funciones.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -105,6 +107,13 @@
     </Compile>
     <Compile Include="frmListadoReservas.aspx.designer.cs">
       <DependentUpon>frmListadoReservas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmReserva.aspx.cs">
+      <DependentUpon>frmReserva.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmReserva.aspx.designer.cs">
+      <DependentUpon>frmReserva.aspx</DependentUpon>
     </Compile>
     <Compile Include="Plantilla.Master.cs">
       <DependentUpon>Plantilla.Master</DependentUpon>

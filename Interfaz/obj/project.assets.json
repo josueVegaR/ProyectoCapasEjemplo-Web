@@ -509,23 +509,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jvega\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "b:\\Users\\Progra\\.nuget\\packages\\": {},
+    "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Interfaz\\Interfaz.csproj",
+      "projectUniqueName": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Interfaz\\Interfaz.csproj",
       "projectName": "Interfaz",
-      "projectPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Interfaz\\Interfaz.csproj",
-      "packagesPath": "C:\\Users\\jvega\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Interfaz\\obj\\",
+      "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Interfaz\\Interfaz.csproj",
+      "packagesPath": "b:\\Users\\Progra\\.nuget\\packages\\",
+      "outputPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Interfaz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jvega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "b:\\Users\\Progra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -540,14 +540,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\AccesoDatos\\AccesoDatos.csproj"
+            "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj"
             },
-            "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\Entidades.csproj"
+            "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj": {
+              "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj"
             },
-            "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\LogicaNegocio\\LogicaNegocio.csproj": {
-              "projectPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\LogicaNegocio\\LogicaNegocio.csproj"
+            "B:\\Proyectos C# - Josue Vega\\Capas Web\\LogicaNegocio\\LogicaNegocio.csproj": {
+              "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\LogicaNegocio\\LogicaNegocio.csproj"
             }
           }
         }

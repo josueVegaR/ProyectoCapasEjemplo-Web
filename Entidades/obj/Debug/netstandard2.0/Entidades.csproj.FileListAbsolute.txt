@@ -1,0 +1,9 @@
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+B:\Proyectos C# - Josue Vega\Capas Web\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

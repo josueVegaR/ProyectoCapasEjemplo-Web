@@ -52,24 +52,24 @@
                 <asp:Button ID="btnBuscar" 
                     runat="server" 
                     Text="Buscar"
-                    CssClass="btn btn-primary"/>
+                    CssClass="btn btn-primary" OnClick="btnBuscar_Click"/>
             </div>
             <div class="col-auto"> <!--Columna-->
                 <asp:Button ID="btnAgregar"
                     runat="server"
                     Text="Nueva Reservación"
-                    CssClass="btn btn-secondary" />
+                    CssClass="btn btn-secondary" OnClick="btnAgregar_Click" />
             </div>
         
         </div> <!--Cierra Div para filas-->
         <br />
         <!--Grid View para cargar los clientes-->
-        <asp:GridView ID="GrdLista" runat="server" AllowPaging="True" AutoGenerateColumns="False" CellPadding="4" EmptyDataText="No se Registran Reservaciones." ForeColor="#333333" GridLines="None" Width="100%">
+        <asp:GridView ID="GrdLista" runat="server" AllowPaging="True" AutoGenerateColumns="False" CellPadding="4" EmptyDataText="No se Registran Reservaciones." ForeColor="#333333" GridLines="None" Width="100%" OnPageIndexChanging="GrdLista_PageIndexChanging">
             <AlternatingRowStyle BackColor="White" />
             <Columns>
                 <asp:TemplateField>
                     <ItemTemplate>
-                        <asp:LinkButton ID="lnkModificar" runat="server" CommandArgument='<%# Eval("NUMRESERVACION").ToString() %>' >Modificar</asp:LinkButton>
+                        <asp:LinkButton ID="lnkModificar" runat="server" CommandArgument='<%# Eval("NUMRESERVACION").ToString() %>' OnCommand="lnkModificar_Command" >Modificar</asp:LinkButton>
                     </ItemTemplate>
                 </asp:TemplateField>
                 <asp:TemplateField>

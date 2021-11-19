@@ -43,6 +43,12 @@ namespace InterfazWeb
             
         }
 
+        private void Limpiar()
+        {
+            txtNombre.Text = string.Empty;
+            txtnumreserva.Text = string.Empty;
+        }
+
         protected void Page_Load(object sender, EventArgs e)
         {
             try
@@ -50,6 +56,7 @@ namespace InterfazWeb
                 if (!IsPostBack)
                 {
                     CargarLista();
+                    Limpiar();
                 }
             }
             catch (Exception)
@@ -57,6 +64,47 @@ namespace InterfazWeb
 
                 Session["_mensaje"] = "No se registran reservas.";
             }
+        }
+
+        protected void GrdLista_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            try
+            {
+                GrdLista.PageIndex = e.NewPageIndex;
+                CargarLista();
+            }
+            catch (Exception ex)
+            {
+                Session["_mensaje"] = $"Error al cargar las reservas. {ex.Message}";
+            }
+        }
+
+        protected void btnBuscar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string condicion = $"nombre like '%{txtNombre.Text.Trim()}%' and NUMRESERVACION like'%{txtnumreserva.Text.Trim()}%'";
+                CargarLista(condicion);
+            }
+            catch (Exception)
+            {
+                Session["_mensaje"] = "Error al buscar la reserva.";
+            }
+        }
+
+        protected void btnAgregar_Click(object sender, EventArgs e)
+        {
+            //No puede haber un ID de reserva en sesión, si tiene algo se borra.
+            Session.Remove("Id_Reserva");
+            //Se llama al formulario de reserva:
+            Response.Redirect("frmReserva.aspx");
+        }
+
+        protected void lnkModificar_Command(object sender, CommandEventArgs e)
+        {
+            //En este caso necesitamos el ID de reserva para modificarlo:
+            Session["Id_Reserva"] = e.CommandArgument.ToString();
+            Response.Redirect("frmReserva.aspx");
         }
     }
 }

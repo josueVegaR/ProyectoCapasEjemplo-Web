@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\AccesoDatos\\AccesoDatos.csproj": {}
+    "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\AccesoDatos\\AccesoDatos.csproj": {
+    "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\AccesoDatos\\AccesoDatos.csproj",
-        "packagesPath": "C:\\Users\\jvega\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\AccesoDatos\\obj\\",
+        "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj",
+        "packagesPath": "b:\\Users\\Progra\\.nuget\\packages\\",
+        "outputPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jvega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "b:\\Users\\Progra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\Entidades.csproj"
+              "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj": {
+                "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -73,20 +73,20 @@
         }
       }
     },
-    "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\Entidades.csproj": {
+    "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\jvega\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos C#\\Proyecto Capas Ejemplo -  Web\\ProyectoCapasEjemplo-Web-master\\Entidades\\obj\\",
+        "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj",
+        "packagesPath": "b:\\Users\\Progra\\.nuget\\packages\\",
+        "outputPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jvega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "b:\\Users\\Progra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
