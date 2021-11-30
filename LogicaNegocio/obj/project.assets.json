@@ -891,23 +891,23 @@
     ]
   },
   "packageFolders": {
-    "b:\\Users\\Progra\\.nuget\\packages\\": {},
-    "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jvega\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Proyectos C# - Josue Vega\\Capas Web\\LogicaNegocio\\LogicaNegocio.csproj",
+      "projectUniqueName": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\LogicaNegocio\\LogicaNegocio.csproj",
       "projectName": "LogicaNegocio",
-      "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\LogicaNegocio\\LogicaNegocio.csproj",
-      "packagesPath": "b:\\Users\\Progra\\.nuget\\packages\\",
-      "outputPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\LogicaNegocio\\obj\\",
+      "projectPath": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\LogicaNegocio\\LogicaNegocio.csproj",
+      "packagesPath": "C:\\Users\\jvega\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\LogicaNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "b:\\Users\\Progra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jvega\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -922,11 +922,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\AccesoDatos\\AccesoDatos.csproj"
+            "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\AccesoDatos\\AccesoDatos.csproj"
             },
-            "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj": {
-              "projectPath": "B:\\Proyectos C# - Josue Vega\\Capas Web\\Entidades\\Entidades.csproj"
+            "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj"
             }
           }
         }

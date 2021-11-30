@@ -10,3 +10,15 @@ B:\Proyectos C# - Josue Vega\Capas Web\AccesoDatos\obj\Debug\netstandard2.0\Acce
 B:\Proyectos C# - Josue Vega\Capas Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
 B:\Proyectos C# - Josue Vega\Capas Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
 B:\Proyectos C# - Josue Vega\Capas Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.deps.json
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.csproj.CopyComplete
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\jvega\Source\Repos\ProyectoCapasEjemplo-Web\AccesoDatos\obj\Debug\netstandard2.0\AccesoDatos.pdb
