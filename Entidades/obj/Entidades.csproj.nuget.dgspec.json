@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj": {}
+    "B:\\Proyectos C# - Josue Vega\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj": {
+    "B:\\Proyectos C# - Josue Vega\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "B:\\Proyectos C# - Josue Vega\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\jvega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\obj\\",
+        "projectPath": "B:\\Proyectos C# - Josue Vega\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj",
+        "packagesPath": "b:\\Users\\Progra\\.nuget\\packages\\",
+        "outputPath": "B:\\Proyectos C# - Josue Vega\\ProyectoCapasEjemplo-Web\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jvega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "b:\\Users\\Progra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

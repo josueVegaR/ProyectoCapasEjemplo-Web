@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CaTdkjiB+llPdnjJHw8dNLnxeCh+RJa1uHo3GiFKueAAobjJCFDNrTXb0G9PIoZHHf5G/S24Jbqq1QOusTSEgA==",
+  "dgSpecHash": "K5xHdRr5SAuh805q5oxkmPA2ti0t6FSSatVqlI/PAbjaZo9OWgESoY/WK2zuivbxJR0Y0Vl/ACJ4bcGP4GzLUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvega\\Source\\Repos\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj",
+  "projectFilePath": "B:\\Proyectos C# - Josue Vega\\ProyectoCapasEjemplo-Web\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jvega\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jvega\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "b:\\Users\\Progra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "b:\\Users\\Progra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
